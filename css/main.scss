@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:700');
+
+.hidden {
+  opacity: 0;
+}
+@import 'partials/mixins.scss';
+@import 'partials/main.scss';
+@import 'partials/message.scss';
+@import 'partials/about.scss';
+@import 'partials/menu.scss';
+@import 'partials/book.scss';
+@import 'partials/deepspace.scss';
+@import 'partials/stars.scss';
